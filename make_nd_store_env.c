@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include <mini_shell.h>
-
+#include <bash.h>
 // it returns pointer the last node in the list "lst".
 t_envp	*last_env(t_envp *lst)
 {
